@@ -1,0 +1,2 @@
+class Myexception(Exception):
+    pass
